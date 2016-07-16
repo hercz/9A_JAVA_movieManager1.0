@@ -1,1 +1,3 @@
-# Week-9A---Let-s-start-Java
+# 9A_JAVA_movieManager1.0
+
+[Codecool](https://codecool.hu/) school project.
